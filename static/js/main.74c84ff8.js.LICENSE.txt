@@ -1,3 +1,9 @@
+/*
+object-assign
+(c) Sindre Sorhus
+@license MIT
+*/
+
 /*!
  * ApexCharts v3.47.0
  * (c) 2018-2024 ApexCharts
